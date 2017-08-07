@@ -4,7 +4,7 @@ We need to to this in order to specify which directories we will be using for ve
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+The staging area allows you to decide which files within the working directory will be added to the repository. If one wanted to leave some files from the directory out of the repository, that is possible because they can leave them out of the staging area.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
