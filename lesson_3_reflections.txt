@@ -11,3 +11,6 @@ Branhes: A series of commits that stem from the main project.
 Forks are goood for when you cannot make changes to someone's reporitory. 
 Clones are good for collaboration and having your code in 2 locations (local and remote).
 Branches are good for keeping new, possibly experimental changes seperate from the main project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you end up working offline, it will be easy to merge with the repository once online again.
