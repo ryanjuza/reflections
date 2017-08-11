@@ -14,3 +14,7 @@ Branches are good for keeping new, possibly experimental changes seperate from t
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you end up working offline, it will be easy to merge with the repository once online again.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I could collaborate using Google Drive, but that automatically saves files, so versioning wouldn't be an otion.
+This would make things much harder. However, the lack of a need to learn commands would be easier.
