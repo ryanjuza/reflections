@@ -18,3 +18,7 @@ If you end up working offline, it will be easy to merge with the repository once
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I could collaborate using Google Drive, but that automatically saves files, so versioning wouldn't be an otion.
 This would make things much harder. However, the lack of a need to learn commands would be easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes in a seperate branch would be good for collaborating with someoen else that may also be making changes. Since both are seperate from teh master, they can be compared and evaluated before merging.
+However, changes in the master are advantageous for when it is a known, already-agreed-upon change among everyone.
